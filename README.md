@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kalyani-ghatte-179b98288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/kalyani-ghatte-179b98288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kalyani-ghatte](https://www.linkedin.com/in/kalyani-ghatte)
 
 - 📫 How to reach me **ghattekalyani@gmail.com**
 
